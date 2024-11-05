@@ -1,0 +1,24 @@
+(1) EXPAND CAPABILITIES
+- include Tesco
+- enable ability to read from pdf files and create a representative basket
+- ensure we can get loyalty and non-loyalty PRICES
+- factor in delivery costs
+
+(2) IMPROVE YOUR CURRENT PROTOTYPE FILE CODE
+- CLEAN 'CLEANING CODE' FOR SAINSBURY
+- INCORPORATE ALL CURRENT PRODUCTS IN COMPARISON AND FIGURE HOW TO MATCH FRUITS
+- SEE HOW MUCH YOU CAN GENERALISE (E.G., NO NEED TO TAKE OUT LONGLIFE)
+- EXPERIMENT WITH BETTER MATCH TYPES?
+- WHAT TO DO WITH TASTE THE DIFFERENCE - MAY BE LABEL AS TD? OTHERWISE MATCH IS WAY OFF
+- HOW TO INCLUDE M&S WHEN NO OCADO SUBSTITUTE
+- INCLUDE PRE-PROMO PRICES AT OCADO AND MORRISON AND INCLUDE MULTI-BUY - CUSTOMERS MAY WANT TO KNOW
+- INCLUDE MORE PRODUCTS LIKE OUST SCALER (be exhaustive) 
+
+(3) THEN
+- Should we want customers to build their basket? Front-end choices?
+- Read pdf data into generic data and convert this into inputs (e.g. generalise - take ocado, sainsbury etc out)
+- Incorporate multi-buy discounts at both retailer
+- Decide which of the products to keep after scraping for comparison ['INTENSE FUZZY WORK']
+- Use streamlit for front-end where you can ask users to upload order data
+- Print cost, and items not compared
+- Print delivery costs not included
