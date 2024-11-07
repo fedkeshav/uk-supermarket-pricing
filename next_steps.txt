@@ -1,8 +1,11 @@
 (1) EXPAND CAPABILITIES
-- include Tesco
-- enable ability to read from pdf files and create a representative basket
+- research/ask retailers if they will provide data through API (proof of concept). Keshav to ask price analytics services
+- allow users to upload images and pdf >> convert image to table using LLM (see what solution). Goal is to crrate representative basket for user
+- solve sainsbury issue and include Tesco
+- accounting for PL
 - ensure we can get loyalty and non-loyalty PRICES
 - factor in delivery costs
+
 
 (2) IMPROVE YOUR CURRENT PROTOTYPE FILE CODE
 - CLEAN 'CLEANING CODE' FOR SAINSBURY
@@ -22,3 +25,9 @@
 - Use streamlit for front-end where you can ask users to upload order data
 - Print cost, and items not compared
 - Print delivery costs not included
+
+
+Use cases
+- Price comparison
+- Quick basket build based on previous orders
+- Price analysis for market

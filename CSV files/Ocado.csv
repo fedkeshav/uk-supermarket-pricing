@@ -1,70 +1,67 @@
 ,product_names,weights,delivered_prices,generic_product
-0,Onken Natural Set Biopot Yoghurt,450g,£1.75,ONKEN%20NATURAL%20YOGHURT%20450G
+0,Onken Natural Set Yogurt,450g,£1.75,ONKEN%20NATURAL%20YOGHURT%20450G
 1,Rude Health Organic Almond Drink Longlife,1L,£2.30,RUDE%20HEALTH%20ALMOND%201L
 2,Rude Health Organic Ultimate Almond Longlife,1L,£3.30,RUDE%20HEALTH%20ALMOND%201L
-3,Rude Health No Sugars Almond,1L,£2.30,RUDE%20HEALTH%20ALMOND%201L
-4,Rude Health Organic Roasted Almond Oat Drink Longlife,1L,£2.30,RUDE%20HEALTH%20ALMOND%201L
-5,Rude Health Almond Drink Chilled,1L,£2.30,RUDE%20HEALTH%20ALMOND%201L
-6,Rude Health Barista Almond Longlife,1L,£2,RUDE%20HEALTH%20ALMOND%201L
-7,Jord Organic Oat and Hemp Drink,1L,£1.90,JORD%20ORGANIC%20OAT%20AND%20HEMP%20DRINK%201L
-8,East End Butter Ghee,500g,£7.05,EAST%20END%20GHEE%20500G
-9,Apetina Paneer ,225g,£2,APETINA%20PANEER%20%20225G
-10,Viakal Classic Limescale Remover Cleaning Spray,500ml,£4,VIAKAL%20CLASSIC%20500ML
-11,Viakal Classic Limescale Remover Liquid,500ml,£3.50,VIAKAL%20CLASSIC%20500ML
-12,Quaker Rolled Oats Porridge Cereal,1kg,£2.65,QUAKER%20ROLLED%20OATS%201KG
-13,Quaker Oats Jumbo Rolled Oats Porridge Cereal,1kg,£2.95,QUAKER%20ROLLED%20OATS%201KG
-14,Andrex Classic Clean Toilet Roll,9 per pack,£5.95,TOILET%20ROLL%209
-15,Cheeky Panda Natural Bamboo Toilet Tissue,9 per pack,£8,TOILET%20ROLL%209
-16,Ocado Luxury Quilted Toilet Tissue,9 per pack,£4.50,TOILET%20ROLL%209
-17,Andrex Classic Clean Mega Toilet Roll,9 per pack,£8.95,TOILET%20ROLL%209
-18,Ocado Super Soft White Toilet Tissue,9 per pack,£3.50,TOILET%20ROLL%209
-19,Andrex Supreme Quilts Toilet Roll Mega Rolls,9 per pack,£7.95,TOILET%20ROLL%209
-20,Ocado Luxury Coconut Oil Toilet Tissue,9 per pack,£4.50,TOILET%20ROLL%209
-21,Ocado Luxury Aloe Vera Toilet Tissue,9 per pack,£4.50,TOILET%20ROLL%209
-22,Andrex Ultra Care Toilet Roll,9 per pack,£5.50,TOILET%20ROLL%209
-23,Andrex Gentle Clean Toilet Roll,9 per pack,£4.85,TOILET%20ROLL%209
-24,The Cheeky Panda Natural Colour Sustainable Bamboo Toilet Tissue,9 per pack,£7.50,TOILET%20ROLL%209
-25,The Cheeky Panda Luxury Quilted Sustainable Bamboo Toilet Tissue,9 per pack,£7.25,TOILET%20ROLL%209
-26,Andrex Coconut Fresh Toilet Roll,9 per pack,£5.95,TOILET%20ROLL%209
+3,Rude Health Organic Roasted Almond Oat Drink Longlife,1L,£2.30,RUDE%20HEALTH%20ALMOND%201L
+4,Rude Health Almond Drink Chilled,1L,£2.30,RUDE%20HEALTH%20ALMOND%201L
+5,Rude Health Barista Almond Longlife,1L,£2,RUDE%20HEALTH%20ALMOND%201L
+6,Rude Health No Sugars Almond,1L,£2.30,RUDE%20HEALTH%20ALMOND%201L
+7,East End Butter Ghee,500g,£5.75,EAST%20END%20GHEE%20500G
+8,Apetina Paneer ,225g,£2,APETINA%20PANEER%20%20225G
+9,Viakal Classic Limescale Remover Cleaning Spray,500ml,£3.25,VIAKAL%20CLASSIC%20500ML
+10,Viakal Classic Limescale Remover Liquid,500ml,£3.50,VIAKAL%20CLASSIC%20500ML
+11,Quaker Rolled Oats Porridge Cereal,1kg,£2.65,QUAKER%20ROLLED%20OATS%201KG
+12,Quaker Oats Jumbo Rolled Oats Porridge Cereal,1kg,£2.95,QUAKER%20ROLLED%20OATS%201KG
+13,Cheeky Panda Natural Bamboo Toilet Tissue,9 per pack,£5.33,TOILET%20ROLL%209
+14,Andrex Complete Clean Toilet Roll,9 per pack,£5.95,TOILET%20ROLL%209
+15,Ocado Luxury Quilted Toilet Tissue,9 per pack,£3.75,TOILET%20ROLL%209
+16,Ocado Super Soft White Toilet Tissue,9 per pack,£3.50,TOILET%20ROLL%209
+17,Ocado Luxury Coconut Oil Toilet Tissue,9 per pack,£3.75,TOILET%20ROLL%209
+18,Andrex Ultimate Quilts + Aloe Vera Toilet Roll,9 per pack,£5,TOILET%20ROLL%209
+19,Andrex Family Soft Toilet Roll,9 per pack,£4.85,TOILET%20ROLL%209
+20,Ocado Luxury Aloe Vera Toilet Tissue,9 per pack,£3.75,TOILET%20ROLL%209
+21,Andrex Ultimate Quilts - Vanilla + Sandalwood Toilet Roll,9 per pack,£5,TOILET%20ROLL%209
+22,Andrex Family Soft Coconut Fresh Toilet Roll,9 per pack,£3.99,TOILET%20ROLL%209
+23,Andrex Ultimate Quilts Toilet Roll,9 per pack,£6.50,TOILET%20ROLL%209
+24,Andrex Ultimate Quilts Toilet Roll Mega Rolls,9 per pack,£9.50,TOILET%20ROLL%209
+25,Ocado Eco Toilet Tissue,9 per pack,£5,TOILET%20ROLL%209
+26,The Cheeky Panda Luxury Quilted Sustainable Bamboo Toilet Tissue,9 per pack,£7.25,TOILET%20ROLL%209
 27,Regina Soft Bamboo,9 per pack,£5.50,TOILET%20ROLL%209
-28,Andrex Supreme Quilts Toilet Roll,9 per pack,£6.50,TOILET%20ROLL%209
-29,Feel Good Eco Toilet Paper,9 per pack,£5.45,TOILET%20ROLL%209
-30,Ocado Eco Toilet Tissue,9 per pack,£5,TOILET%20ROLL%209
-31,Regina Seriously Soft Toilet Tissue,9 per pack,£6.50,TOILET%20ROLL%209
-32,Little Duck So Soft Toilet Tissue,9 per pack,£3.40,TOILET%20ROLL%209
-33,Regina Chamomile Toilet Tissue,9 per pack,£6.50,TOILET%20ROLL%209
-34,M&S Quilted Toilet Tissue,9 per pack,£4.75,TOILET%20ROLL%209
-35,M&S Soothing Aloe Vera Toilet Tissue,9 per pack,£4.75,TOILET%20ROLL%209
-36,M&S Scented Toilet Tissue,9 per pack,£5,TOILET%20ROLL%209
-37,Nicky Elite 3 Ply Quilted Toilet Tissue,9 per pack,£6.25,TOILET%20ROLL%209
-38,Serious Tissues Carbon Neutral Toilet Roll,9 per pack,£6.50,TOILET%20ROLL%209
-39,"Twinings Peppermint Tea, 80 Tea Bags",80 per pack,£5,"TWININGS%20PEPPERMINT%20TEA,%2080%20TEA%20BAGS"
-40,"Linwoods Milled Organic Flaxseed, Sunflower & Pumpkin Seeds",425g,£5.80,"LINWOODS%20MILLED%20ORGANIC%20FLAXSEED,%20SUNFLOWER%20&%20PUMPKIN%20SEEDS%20"
-41,Ocado Medjool Dates,500g,£5.20,MEDJOOL%20DATES%20500G
-42,M&S Collection Medjool Dates With Stones,500g,£5.75,MEDJOOL%20DATES%20500G
-43,Ocado Fairtrade Bananas,5 per pack,95p,FAIRTRADE%20BANANAS%205
-44,Ocado Fairtrade Ripen at Home Bananas,5 per pack,£1,FAIRTRADE%20BANANAS%205
-45,M&S Extra Fine Beans,200g,£2.65,EXTRA%20FINE%20BEANS%20200G
-46,Natoora Italian Leafy Clementines,500g,£2.96,EASY%20PEELER%20ORANGES
-47,M&S Seedless Satsuma,750g,£2.50,EASY%20PEELER%20ORANGES
-48,Wholegood Organic Clementines,600g,£2.40,EASY%20PEELER%20ORANGES
-49,Ocado Easy Peelers,600g,£1.14,EASY%20PEELER%20ORANGES
-50,M&S Easy Peelers with Leaves,800g,£3,EASY%20PEELER%20ORANGES
-51,M&S Seedless Easy Peelers ,2.3kg,£5,EASY%20PEELER%20ORANGES
-52,Ocado Satsumas,600g,£1.35,EASY%20PEELER%20ORANGES
-53,M&S Squeezed Spanish Clementine Juice,1L,£2,EASY%20PEELER%20ORANGES
-54,M&S Collection Brandy & Clementine Mincemeat,510g,£3.25,EASY%20PEELER%20ORANGES
-55,M&S Clementine & Cranberry Bucks Fizz,75cl,£5,EASY%20PEELER%20ORANGES
-56,Three Mills Spiced Clementine Mulled Wine,75cl,£5,EASY%20PEELER%20ORANGES
-57,Fever-Tree Light Spanish Clementine Tonic Cans,8 x 150ml,£4.75,EASY%20PEELER%20ORANGES
-58,Fever-Tree Light Spanish Clementine Tonic Water,500ml,£2.10,EASY%20PEELER%20ORANGES
-59,Ecover Camomile & Clementine Washing Up Liquid,450ml,£1.75,EASY%20PEELER%20ORANGES
-60,Ecover Washing Up Liquid Camomile & Clementine 5L,5L,£14.30,EASY%20PEELER%20ORANGES
-61,Method Daily Kitchen Surface Cleaner Clementine,828ml,£4,EASY%20PEELER%20ORANGES
-62,Ecover Camomile & Clementine Washing Up Liquid,950ml,£3.85,EASY%20PEELER%20ORANGES
-63,Bonne Maman Clementine Mousse,2 x 70g,£1.50,EASY%20PEELER%20ORANGES
-64,M&S Clementine & Almond Frangipane Sponge,365g,£7,EASY%20PEELER%20ORANGES
-65,M&S Christmas Devon Cider with Clementine Juice,500ml,£2.50,EASY%20PEELER%20ORANGES
-66,Daylesford Organic Raw Chocolate Bar - Orange & Tangerine,50g,£3,EASY%20PEELER%20ORANGES
-67,Harvey Nichols Clementine & Thyme Marmalade,300g,£5.95,EASY%20PEELER%20ORANGES
-68,Ginato Clementine Orange Gin,70cl,£30,EASY%20PEELER%20ORANGES
+28,Little Duck So Soft Toilet Tissue,9 per pack,£3.40,TOILET%20ROLL%209
+29,M&S Soothing Aloe Vera Toilet Tissue,9 per pack,£4.75,TOILET%20ROLL%209
+30,The Cheeky Panda Natural Colour Sustainable Bamboo Toilet Tissue,9 per pack,£7.50,TOILET%20ROLL%209
+31,Nicky Elite 3 Ply Quilted Toilet Tissue,9 per pack,£6.20,TOILET%20ROLL%209
+32,M&S Quilted Toilet Tissue,9 per pack,£4.75,TOILET%20ROLL%209
+33,Regina Seriously Soft Toilet Tissue,9 per pack,£6.50,TOILET%20ROLL%209
+34,"Linwoods Milled Organic Flaxseed, Sunflower & Pumpkin Seeds",425g,£6.30,"LINWOODS%20MILLED%20ORGANIC%20FLAXSEED,%20SUNFLOWER%20&%20PUMPKIN%20SEEDS%20"
+35,M&S Collection Medjool Dates With Stones,500g,£5.75,MEDJOOL%20DATES%20500G
+36,Ocado Medjool Dates,500g,£5.20,MEDJOOL%20DATES%20500G
+37,M&S Organic Fairtrade Bananas,5 per pack,£1.60,FAIRTRADE%20BANANAS%205
+38,Ocado Rainforest Alliance Bananas,5 per pack,95p,FAIRTRADE%20BANANAS%205
+39,Ocado Rainforest Alliance Ripen at Home Bananas,5 per pack,£1,FAIRTRADE%20BANANAS%205
+40,M&S Extra Fine Beans,200g,£2.65,EXTRA%20FINE%20BEANS%20200G
+41,Natoora Spanish Leafy Clementines,500g,£3.95,EASY%20PEELER%20ORANGES
+42,Wholegood Organic Clementines,600g,£2.40,EASY%20PEELER%20ORANGES
+43,Ocado Satsumas,600g,£1.35,EASY%20PEELER%20ORANGES
+44,Ocado Easy Peelers,600g,£1.29,EASY%20PEELER%20ORANGES
+45,Natoora Italian Miyagawa Satsumas,500g,£3.75,EASY%20PEELER%20ORANGES
+46,M&S Squeezed Spanish Clementine Juice,1L,£2.10,EASY%20PEELER%20ORANGES
+47,Method Daily Kitchen Surface Cleaner Clementine,828ml,£2.75,EASY%20PEELER%20ORANGES
+48,Bonne Maman Clementine & Lemon Mousse Dessert,2 x 70g,£1.50,EASY%20PEELER%20ORANGES
+49,Fever-Tree Light Spanish Clementine Tonic Water,500ml,£2.25,EASY%20PEELER%20ORANGES
+50,M&S Light Clementine Tonic Water,8 x 150ml,£4.50,EASY%20PEELER%20ORANGES
+51,M&S Clementine with Honey & Lemon Juice,1L,£2.10,EASY%20PEELER%20ORANGES
+52,Three Mills Spiced Clementine Mulled Wine,75cl,£5,EASY%20PEELER%20ORANGES
+53,M&S Clementine Gin Liqueur Snow Globe,700ml,£20,EASY%20PEELER%20ORANGES
+54,M&S Clementine & Cranberry Bucks Fizz,75cl,£4,EASY%20PEELER%20ORANGES
+55,Ginato Clementine Orange Gin,70cl,£30,EASY%20PEELER%20ORANGES
+56,M&S Christmas Devon Cider with Clementine Juice,500ml,£2.50,EASY%20PEELER%20ORANGES
+57,Ecover Washing Up Liquid Camomile & Clementine 5L,5L,£12.15,EASY%20PEELER%20ORANGES
+58,Ecover Camomile & Clementine Washing Up Liquid,950ml,£4.15,EASY%20PEELER%20ORANGES
+59,Ecover Camomile & Clementine Washing Up Liquid,450ml,£2.25,EASY%20PEELER%20ORANGES
+60,Daylesford Clementine Curd,210g,£5.50,EASY%20PEELER%20ORANGES
+61,M&S Collection Brandy & Clementine Mincemeat,510g,£3.25,EASY%20PEELER%20ORANGES
+62,Daylesford Organic Raw Chocolate Bar - Orange & Tangerine,50g,£3.45,EASY%20PEELER%20ORANGES
+63,Harvey Nichols Clementine & Thyme Marmalade,300g,£5.95,EASY%20PEELER%20ORANGES
+64,Miniml Anti-Bac Hand Soap Sweet Clementine,500ml,£4.50,EASY%20PEELER%20ORANGES
+65,M&S Medium Coarse Ardennes Pate with a shallot and clementine jelly,365g,£8,EASY%20PEELER%20ORANGES
